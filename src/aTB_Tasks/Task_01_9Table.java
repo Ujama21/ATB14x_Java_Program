@@ -17,6 +17,7 @@ public class Task_01_9Table
         System.out.printf("%dx8=%d\n", table, table*8);
         System.out.printf("%dx9=%d\n", table, table*9);
         System.out.printf("%dx10=%d\n", table, table*10);
+        System.out.printf("");
 
     }
 }
